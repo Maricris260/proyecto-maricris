@@ -10,13 +10,14 @@ public class Ejemplo01 {
         String clave = "";
 
 
-        while (nombreUsuario == "juan" || clave == "12345"){
+        while (!nombreUsuario.equals("juan") || !clave.equals("12345")){
             System.out.println("ingrese su nombre de usuario");
             nombreUsuario = entradadeDatos.nextLine();
 
             System.out.println("ingrese su clave");
             clave = entradadeDatos.nextLine();
-            if (nombreUsuario == "juan" || clave == "12345"){
+
+            if (!nombreUsuario.equals("juan") || !clave.equals("12345")){
                 System.out.println("datos incorrectos,no puedes ingresar");
             }
 
