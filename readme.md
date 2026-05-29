@@ -1,50 +1,91 @@
 ---
 
-title: "Mi Primer Proyecto RMD"
-author: "Maricris"
-date: "2026"
-output: html_document
----------------------
+# 🚀 Primer Proyecto en JAVA
 
-# Presentación
+## 👩‍🎓 Información del Estudiante
 
-Hola, mi nombre es **Maricris**, tengo **19 años** y soy estudiante del instituto de Carhuaz. Actualmente estoy estudiando la carrera de **Arquitectura de Plataformas y Servicios de Tecnologías de la Información**.
+* **Nombre:** Maricris Peje León
+* **Curso:** Desarrollo de Aplicaciones
+* **Lenguaje de Programación:** JAVA
+* **Institución:** Instituto Superior Tecnológico Carhuaz
+* **Docente:** Braulio Apaza Dávila
 
-Este es mi primer archivo en formato **R Markdown (RMD)**, creado como parte de mi aprendizaje en desarrollo tecnológico y documentación de proyectos.
+---
 
-# Sobre mí
+## 📚 Descripción del Proyecto
 
-* Nombre: Maricris
-* Edad: 19 años
-* Año: 2026
-* Instituto: IESTP Carhuaz
-* Carrera: Arquitectura de Plataformas
-* Intereses:
+Este proyecto fue desarrollado como parte del curso de **Desarrollo de Aplicaciones**, utilizando el lenguaje de programación **JAVA**.
 
-    * Desarrollo de aplicaciones
-    * Programación
-    * Tecnología e innovación
-    * Bases de datos
-    * Redes y plataformas digitales
+El objetivo principal es fortalecer los conocimientos en programación, lógica computacional y desarrollo de aplicaciones modernas, aplicando buenas prácticas de codificación y estructura de proyectos.
 
-# Objetivo del Proyecto
+---
 
-El objetivo de este proyecto es aprender a trabajar con archivos `.Rmd`, los cuales permiten combinar:
+## 🛠️ Tecnologías Utilizadas
 
-* Texto
-* Código
-* Resultados
-* Gráficos
-* Documentación
+* JAVA ☕
+* Visual Studio Code / NetBeans / IntelliJ IDEA
+* Git y GitHub
+* Programación Orientada a Objetos (POO)
 
-Todo en un solo documento profesional.
+---
 
-# Ejemplo de Código en R
+## 🎯 Objetivos del Proyecto
 
-```{r}
-# Mi primer código en R
-nombre <- "Maricris"
-edad <- 19
+* Aprender la sintaxis básica de JAVA.
+* Crear aplicaciones funcionales.
+* Comprender el uso de clases y objetos.
+* Desarrollar habilidades en lógica de programación.
+* Implementar buenas prácticas de desarrollo.
 
-pas
+---
+
+## 📂 Estructura del Proyecto
+
+```bash
+📁 proyecto-java
+ ┣ 📂 src
+ ┃ ┗ 📜 Main.java
+ ┣ 📜 README.md
+ ┗ 📜 .gitignore
 ```
+
+---
+
+## ▶️ Ejecución del Proyecto
+
+1. Clonar el repositorio:
+
+```bash
+git clone https://github.com/usuario/proyecto-java.git
+```
+
+2. Abrir el proyecto en tu IDE favorito.
+
+3. Ejecutar el archivo `Main.java`.
+
+---
+
+## 💡 Aprendizajes
+
+Durante este proyecto se aprendió:
+
+* Uso de variables y tipos de datos.
+* Estructuras condicionales y repetitivas.
+* Métodos y funciones.
+* Clases y objetos en JAVA.
+* Organización de proyectos de software.
+
+---
+
+## 🌟 Mensaje Final
+
+Este es uno de mis primeros proyectos desarrollados en JAVA y representa un paso importante en mi formación profesional como estudiante de tecnología y desarrollo de software.
+
+> “La programación no solo es escribir código, es crear soluciones.” 💻
+
+---
+
+## 📌 Autor
+
+**Maricris Peje León**
+Estudiante del Instituto Superior Tecnológico Carhuaz
