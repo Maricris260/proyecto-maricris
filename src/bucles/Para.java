@@ -11,6 +11,8 @@ public class Para {
 
             System.out.println("en esta buelta ahora es: "+valorInicial);
 
+            int total = 0;
+
             for (int inicio =3; inicio <= 10; inicio=inicio*1){
                 System.out.println("multilpicador:"+inicio);
             }
